@@ -8,7 +8,7 @@ import { Ecommerce, Orders, Calendar, Employers, Stacked, Pyramid,Customers, Kan
 import './App.css';
 
 export const App = () => {
-  const activeMenu = false;
+  const activeMenu = true;
 
   return (
     <div>
